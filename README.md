@@ -6,9 +6,9 @@ The column is_canceled is also present in the dataset which has two values 1 and
 ## Model
 We have used a Logistic Regression model to predict whether a booking is likely to be cancelled or not, based on the features in the dataset. The model was trained on a subset of the data and then evaluated on a holdout set to assess its performance.
 ## Repository Contents
-- data/: Folder containing the dataset used in the project
-- notebooks/: Jupyter notebooks containing the code for data exploration, model training and evaluation
-- models/: Folder containing the trained Logistic Regression model
+- data: Folder containing the dataset used in the project
+- notebooks: Jupyter notebooks containing the code for data exploration, model training and evaluation
+- models: Folder containing the trained Logistic Regression model
 - requirements.txt: File containing the Python libraries required to run the code
 - README.md: This file
 ## Getting Started
