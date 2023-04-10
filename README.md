@@ -1,0 +1,2 @@
+# Hotel-Booking-Cancellation-Prediction-with-Logistic-Regression
+This is a project to predict hotel booking cancellations using a Logistic Regression model. The goal of this project is to build a predictive model that can help hotel managers better understand which bookings are more likely to be cancelled, so that they can take proactive measures to mitigate cancellations and improve their business operations.
