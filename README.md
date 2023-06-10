@@ -1,4 +1,4 @@
-# Hotel-Booking-Cancellation-Prediction-with-Logistic-Regression
+# Hotel-Booking-Cancellation-Prediction
 This is a project to predict hotel booking cancellations using multiple models. The goal of this project is to build a predictive model that can help hotel managers better understand which bookings are more likely to be cancelled, so that they can take proactive measures to mitigate cancellations and improve their business operations.
 ## Dataset
 The dataset used in this project is from BRAEMAR Hotel & Resorts, which contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
